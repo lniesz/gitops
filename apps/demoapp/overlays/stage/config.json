@@ -1,0 +1,1 @@
+{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demoapp/overlays/stage","srcRepoURL":"https://github.com/lniesz/gitops.git","srcTargetRevision":"","labels":null}
